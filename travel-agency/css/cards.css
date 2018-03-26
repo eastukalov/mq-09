@@ -27,7 +27,7 @@
   .card:nth-child(5n+3),
   .card:nth-child(5n+4),
   .card:nth-child(5n+5) {
-    width: calc(100% / 3);
+    width: 33.33%;
   }
 
 }
@@ -58,7 +58,7 @@
   .card:nth-child(14),
   .card:nth-child(15),
   .card:nth-child(16){
-    width: calc(100% / 3);
+    width: 33.33%;
   }
 
   .card:nth-child(17),
